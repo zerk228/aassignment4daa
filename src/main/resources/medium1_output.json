@@ -1,0 +1,56 @@
+{
+  "longestPath": [
+    null,
+    null,
+    null,
+    null,
+    0,
+    2,
+    3,
+    6,
+    null,
+    null,
+    null,
+    null
+  ],
+  "SCC": [
+    [8],
+    [
+      9,
+      11,
+      10
+    ],
+    [4],
+    [5],
+    [6],
+    [7],
+    [0],
+    [
+      1,
+      3,
+      2
+    ]
+  ],
+  "shortestPath": [
+    null,
+    null,
+    null,
+    null,
+    0,
+    2,
+    3,
+    6,
+    null,
+    null,
+    null,
+    null
+  ],
+  "topoSort": [
+    0,
+    4,
+    8,
+    5,
+    6,
+    7
+  ]
+}
