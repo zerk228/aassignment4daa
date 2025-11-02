@@ -55,7 +55,7 @@ public class Main {
             Files.writeString(Paths.get(outputFile), output.toString(2));
 
             System.out.println(output.toString(2));
-            System.out.println("Saved to: " + outputFile);
+            System.out.println();
         }
     }
 }
